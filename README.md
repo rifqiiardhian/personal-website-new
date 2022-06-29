@@ -1,24 +1,10 @@
-# hello-world-new
+## Hi, there!
 
-## Project setup
-```
-npm install
-```
+### Welcome to rifqiiardhian official creative website github page
+Making all to be flawless and structured. In the words above, why should everything be perfect and structured? When your work is satisfying, not only for yourself but also for others, it will give you pride and an appreciation that I can do it. So i have a motto, perfectionist, perseverance, and intelligence.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Contact Information
+[Instagram](https://instagram.com/rifqiiardhian/)
+[LinkedIn](https://linkedin.com/in/rifqiiardhian/)
+[Whatsapp](https://wa.me/+6281334457150)
+[Medium](https://rifqiardhian.medium.com/)
